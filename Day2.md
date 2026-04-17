@@ -1,5 +1,5 @@
 
-## 💻 Day 2: Exercises
+# 💻 Day 2
 
 ### Exercises: Level 1
 
