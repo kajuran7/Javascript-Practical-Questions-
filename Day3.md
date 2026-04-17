@@ -1,5 +1,4 @@
-# 📔 Day 3
-## 💻 Exercise
+# 💻 Day 3
 
 ### Exercise: Level 1
 
